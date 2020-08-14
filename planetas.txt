@@ -2,3 +2,4 @@ mercúrio
 venus
 terra
 marte
+jupiter
