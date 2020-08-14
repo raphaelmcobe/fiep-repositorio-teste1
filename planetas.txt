@@ -1,2 +1,3 @@
 mercúrio
+venus
 terra
